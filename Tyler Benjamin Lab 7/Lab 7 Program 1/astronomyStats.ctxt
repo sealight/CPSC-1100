@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=astronomyStats
+comment0.text=\n\ The\ static\ class\ for\ lab\ 7.\ It\ contains\ the\ methods\ and\ instance\ variables\n\ for\ the\ first\ program.\n\ @author\ Tyler\ Benjamin\n\ @version\ 10/30/17\ \ \ \ \n
+comment1.params=earthWeight
+comment1.target=double\ moonConversionMethod(double)
+comment2.params=earthWeight
+comment2.target=double\ mercuryConversionMethod(double)
+comment3.params=earthWeight
+comment3.target=double\ venusConversionMethod(double)
+comment4.params=earthWeight
+comment4.target=double\ jupiterConversionMethod(double)
+comment5.params=earthWeight
+comment5.target=double\ saturnConversionMethod(double)
+numComments=6

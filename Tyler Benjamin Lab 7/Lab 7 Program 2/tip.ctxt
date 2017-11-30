@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=tip
+comment0.text=\n\ A\ class\ for\ the\ tip\ calculator.\n\n\ @author\ Tyler\ Benjamin\n\ @version\ 10/31/17\n
+comment1.params=
+comment1.target=tip()
+comment2.params=bill\ satisfactionRating
+comment2.target=double\ calcTip(double,\ int)
+numComments=3

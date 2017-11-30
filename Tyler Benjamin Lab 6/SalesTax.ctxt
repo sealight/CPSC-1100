@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SalesTax
+comment0.text=\n\ A\ class\ to\ calculate\ the\ sales\ tax\ on\ a\ purchase.\n\n\ @author\ Tyler\ Benjamin\n\ @version\ 10/6/17\n
+comment1.params=
+comment1.target=SalesTax()
+comment2.params=taxRate
+comment2.target=void\ SalesTaxRate(double)
+comment3.params=purchase
+comment3.target=void\ calculateSalesTax(double)
+comment4.params=
+comment4.target=void\ totalCost()
+comment5.params=
+comment5.target=double\ getTotalCost()
+numComments=6
