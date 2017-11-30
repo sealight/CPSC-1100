@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=sumComputer
+comment0.text=\n\ Computes\ the\ sum\ of\ all\ even\ numbers\ between\ 2\ and\ 100\ inclusive\n\ and\ the\ sum\ of\ all\ squares\ between\ 1\ and\ 100\ inclusive.\n\n\ @author\ Tyler\ Benjamin\n\ @version\ 11/6/17\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

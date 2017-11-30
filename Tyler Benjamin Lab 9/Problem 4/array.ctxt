@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=array
+comment0.text=\n\ Class\ that\ holds\ the\ instance\ variables\ and\ methods.\n\n\ @author\ Tyler\ Benjamin\n\ @version\ 11/15/17\n
+comment1.params=arrayNumber
+comment1.target=array(int[])
+comment2.params=arrayPart
+comment2.target=void\ addOddAverage(int)
+comment3.params=
+comment3.target=void\ getOddAverage()
+comment4.params=arrayPart
+comment4.target=void\ addEvenAverage(int)
+comment5.params=
+comment5.target=void\ getEvenAverage()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PrintIt
+comment0.text=\n\ The\ class\ PrintIt\ that\ holds\ the\ instance\ variables\ and\ methods\ necessary\n\ to\ complete\ problem\ 2\ of\ lab\ 9.\n\n\ @author\ Tyler\ Benjamin\ \ \n\ @version\ 11/15/17\n
+comment1.params=inputArray
+comment1.target=PrintIt(int[])
+comment2.params=
+comment2.target=void\ printInOrder()
+comment3.params=
+comment3.target=void\ printInReverse()
+numComments=4
