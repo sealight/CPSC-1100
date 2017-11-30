@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=integerSquares
+comment0.text=\n\ This\ is\ class\ integerSquares,\ which\ will\ calculate\ the\ squares\ of\ the\n\ integers\ 1-9.\n\n\ @author\ Tyler\ Benjamin\n\ @version\ 10/3/17\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

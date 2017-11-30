@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=weightVariables
+comment0.text=\n\ This\ class\ weightVariables\ will\ hold\ six\ variables\ that\ house\ numbers\ in\n\ units\ of\ weight.\n\n\ @author\ Tyler\ Benjamin\n\ @version\ 10/2/17\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
